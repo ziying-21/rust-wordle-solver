@@ -1,0 +1,11 @@
+/Users/zhangziying/Desktop/wordle-ziying-z21/WordleSolver_inter/target/debug/deps/console-4161777326313b2c.rmeta: /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/Users/zhangziying/Desktop/wordle-ziying-z21/WordleSolver_inter/target/debug/deps/console-4161777326313b2c.d: /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs:
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs:
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs:
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs:
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs:
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs:
+/Users/zhangziying/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs:
